@@ -4,7 +4,7 @@
 	<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
 	<style>
-		#map { 
+		#mapa { 
 		    width: 100%;
 		    height: 580px;
 		    box-shadow: 5px 5px 5px #888;
